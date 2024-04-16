@@ -1,0 +1,2 @@
+Assignment 1: Simulation of Bertrand’s Paradox
+Simulate the three strategies (as discussed in the class) to estimate the probabilities obtained by each of the three sampling strategies. You are allowed to use any language and random sampler. You should submit a single zip package containing the source code and a README file that describes how the code can be run. You can do the project in a team with at most 5 members (including you).
