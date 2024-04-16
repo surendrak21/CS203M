@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-
+print("Berthday Paradox")
 def calculate_students(p):
     if p > 1 or p < 0:
         print("Probability entered is either less than 0 or greater than 1, this is not possible!")
